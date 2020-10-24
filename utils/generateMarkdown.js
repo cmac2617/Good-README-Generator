@@ -4,8 +4,8 @@ function generateMarkdown(data, license) {
   ## Table of Contents
   ![License](${license})
   * [Description](#Description)
-  * [Installation](#Installation Instructions)
-  * [Use Cases]("#Use Cases")
+  * [Installation Instructions](#Installation)
+  * [Use Cases]("#Usage")
   * [Licensing](#Licensing)
   * [Tests](#Tests)
   * [Contributors](#Contributors)

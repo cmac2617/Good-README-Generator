@@ -7,6 +7,7 @@ const markDown = "gnerateMarkdown"
 const readMe = "README.MD"
 const MITUrl = "https://img.shields.io/badge/license-MIT-green"
 const AURUrl = "https://img.shields.io/badge/license-Apache-blue"
+const noneUrl = "https://img.shields.io/badge/None-No%20License-lightgrey"
 const licenseUrl = "";
 
 // Array of questions (objects) for user.
@@ -73,6 +74,9 @@ function init() {
         }
         else if (answers.license == "AUR") {
             URL = AURUrl;
+        }
+        else {
+            URL = noneUrl;
         }
         writeToFile(readMe, answers, URL);
 
