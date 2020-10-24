@@ -1,6 +1,7 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ![MITLicense](https://img.shields.io/badge/license-MIT-green)
   * [Description](#Description)
   * [Installation](#Installation Instructions)
   * [Use Cases](#UseCases)
@@ -10,7 +11,7 @@ function generateMarkdown(data) {
   * [Contact](#Contact)
   
   ## Description
-${data.description}
+  ${data.description}
   ## Installation Instructions
   ${data.installation}
 
@@ -18,14 +19,16 @@ ${data.description}
   ${data.usage}
 
   ## Licensing
-
-  ## Description
+  This application uses a standard ${data.license} license.
 
   ## Tests
+  ${data.test}
 
   ## Contributors
+  ${data.contributors}
 
   ## Contact
+  For further questions, I can be contacted at: ${data.email}
 `
 }
 
