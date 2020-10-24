@@ -1,6 +1,6 @@
-# Cool
+# Cool Title
   * [Description](#Description)
-  * [Installation Instructions](#Installation Instructions)
+  * [Installation](#Installation Instructions)
   * [Use Cases]{(#Use Cases)
   * [Licensing](#Licensing)
   * [Tests](#Tests)
@@ -8,12 +8,12 @@
   * [Contact](#Contact)
   
   ## Description
-Just use it.
+It's good.
   ## Installation Instructions
-  Nah
+  Nah.
 
   ## Use Cases
-  Good
+  None.
 
   ## Licensing
 
