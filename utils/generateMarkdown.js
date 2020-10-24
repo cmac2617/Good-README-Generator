@@ -2,7 +2,7 @@
 function generateMarkdown(data) {
   return `# ${data.title}
   * [Description](#Description)
-  * [Installation Instructions](#Installation Instructions)
+  * [Installation](#Installation Instructions)
   * [Use Cases]{(#Use Cases)
   * [Licensing](#Licensing)
   * [Tests](#Tests)
