@@ -29,6 +29,7 @@ function generateMarkdown(data, license) {
 
   ## Contact
   For further questions, I can be contacted at: ${data.email}.
+  Visit my Github [profile](http://www.github.com/${data.username})
 `
 }
 
