@@ -1,19 +1,19 @@
 # Cool.
   * [Description](#Description)
   * [Installation](#Installation Instructions)
-  * [Use Cases]{(#Use Cases)
+  * [UseCases]{(#Use Cases)
   * [Licensing](#Licensing)
   * [Tests](#Tests)
   * [Contributors](#Contributors)
   * [Contact](#Contact)
   
   ## Description
-No that's OK.
+Again
   ## Installation Instructions
-  Nothing to install.
+  here we go
 
   ## Use Cases
-  Nah.
+  yes
 
   ## Licensing
 
