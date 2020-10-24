@@ -5,6 +5,9 @@ const path = require("path")
 const generateMarkdown = require("./utils/generateMarkdown")
 const markDown = "gnerateMarkdown"
 const readMe = "README.MD"
+const MITUrl = "https://img.shields.io/badge/license-MIT-green"
+const AURUrl = "https://img.shields.io/badge/license-Apache-blue"
+const licenseUrl = "";
 
 // Array of questions (objects) for user.
 const questions = [
@@ -42,7 +45,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What license does the application use?",
-        choices: ["MIT", "Other"]
+        choices: ["MIT", "AUR", "Other"]
     },
     {
         type: "input",
@@ -57,14 +60,20 @@ const questions = [
 ];
 
 // Function to write README file.
-function writeToFile(filename, answers) {
-    return fs.writeFileSync(path.join(process.cwd(), readMe), generateMarkdown(answers));
+function writeToFile(filename, answers, URL) {
+    return fs.writeFileSync(path.join(process.cwd(), readMe), generateMarkdown(answers, URL));
 }
 
 // Function to initialize program.
 function init() {
-    inquirer.prompt(questions).then(function (answers) {
+    inquirer.prompt(questions).then(function (answers, URL) {
         var answers = answers;
+        if (answers.license == "MIT") {
+            URL = MITUrl;
+        }
+        else if (answers.license == "AUR") {
+            URL = AURUrl;
+        }
         writeToFile(readMe, answers);
 
     })
