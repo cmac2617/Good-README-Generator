@@ -1,19 +1,19 @@
-# Try again
+# Man
   * [Description](#Description)
   * [Installation](#Installation Instructions)
-  * [UseCases](#Use Cases)
+  * [Use Cases](#UseCases)
   * [Licensing](#Licensing)
   * [Tests](#Tests)
   * [Contributors](#Contributors)
   * [Contact](#Contact)
   
   ## Description
-yes
+let
   ## Installation Instructions
-  leggo
+  go
 
   ## Use Cases
-  come on
+  of 
 
   ## Licensing
 
