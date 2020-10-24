@@ -1,7 +1,7 @@
 # Cool Title
   * [Description](#Description)
   * [Installation](#Installation Instructions)
-  * [Use Cases]{(#Use Cases)
+  * [Use Cases](#UseCases)
   * [Licensing](#Licensing)
   * [Tests](#Tests)
   * [Contributors](#Contributors)
