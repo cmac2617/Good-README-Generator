@@ -74,7 +74,7 @@ function init() {
         else if (answers.license == "AUR") {
             URL = AURUrl;
         }
-        writeToFile(readMe, answers);
+        writeToFile(readMe, answers, URL);
 
     })
 
