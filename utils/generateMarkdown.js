@@ -1,6 +1,8 @@
 // function to generate markdown for README
 function generateMarkdown(data, license) {
   return `# ${data.title}
+  ## [Video](https://drive.google.com/file/d/1Z91Q-WykHgglIxwwdTinxBekyngzVH-m/view)
+
   ## Table of Contents
   ![License](${license})
   * [Description](#Description)
@@ -29,7 +31,7 @@ function generateMarkdown(data, license) {
   ${data.contributors}
 
   ## Contact
-  For further questions, I can be contacted at: ${data.email}
+  For further questions, I can be contacted at: ${data.email}\n
   Visit my Github [profile](http://www.github.com/${data.username})
 `
 }

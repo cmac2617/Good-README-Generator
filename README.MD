@@ -1,6 +1,8 @@
-# Homework 8 Assigment
+# Homework assignment.
+  ## [Video](https://drive.google.com/file/d/1Z91Q-WykHgglIxwwdTinxBekyngzVH-m/view)
+
   ## Table of Contents
-  ![License](https://img.shields.io/badge/license-MIT-green)
+  ![License](https://img.shields.io/badge/None-No%20License-lightgrey)
   * [Description](#Description)
   * [Installation Instructions](#Installation)
   * [Use Cases]("#Usage")
@@ -10,22 +12,23 @@
   * [Contact](#Contact)
   
   ## Description
-  This project will generate a new README document to describe an application that you've built.
+  An application to generate a new README document.
   ## Installation Instructions
-  Intall inquirer by using the npm i inquirer command.
+  Install npm inquirer module.
 
   ## Use Cases
-  Anytime you are developing a new application and want to generate a README document that accurately describes it.
+  Generating READMEs for all applications.
 
   ## Licensing
-  This application uses a standard MIT license.
+  This application uses a standard None/Other license.
 
   ## Tests
-  No tests are used.
+  None.
 
   ## Contributors
   Cyle.
 
   ## Contact
   For further questions, I can be contacted at: cmac2617@yahoo.com
+
   Visit my Github [profile](http://www.github.com/cmac2617)
