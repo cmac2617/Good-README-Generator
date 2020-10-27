@@ -1,4 +1,4 @@
-# Homework 8 Assigment.
+# Homework 8 Assigment
   ## Table of Contents
   ![License](https://img.shields.io/badge/license-MIT-green)
   * [Description](#Description)
@@ -10,18 +10,18 @@
   * [Contact](#Contact)
   
   ## Description
-  This application uses command line prompts to ask questions and receive responses that it uses to build a professional looking README ddocument.
+  This project will generate a new README document to describe an application that you've built.
   ## Installation Instructions
-  The only required dependency for this application is inquirer. Install inquirer by using the "npm i inquirer" command, or "npm i" if you have a package.json file that specifies inquirer as a dependency.
+  Intall inquirer by using the npm i inquirer command.
 
   ## Use Cases
-  Anytime you are bulding a new application and need to summarize with a README.
+  Anytime you are developing a new application and want to generate a README document that accurately describes it.
 
   ## Licensing
   This application uses a standard MIT license.
 
   ## Tests
-  There are no tests used with this project.
+  No tests are used.
 
   ## Contributors
   Cyle.

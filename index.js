@@ -46,7 +46,7 @@ const questions = [
         type: "list",
         name: "license",
         message: "What license does the application use?",
-        choices: ["MIT", "AUR", "Other"]
+        choices: ["MIT", "AUR", "None/Other"]
     },
     {
         type: "input",
