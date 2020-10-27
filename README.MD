@@ -1,4 +1,4 @@
-# Homework assignment.
+# Homework 8 README Generator
   ## [Video](https://drive.google.com/file/d/1Z91Q-WykHgglIxwwdTinxBekyngzVH-m/view)
 
   ## Table of Contents
@@ -12,12 +12,12 @@
   * [Contact](#Contact)
   
   ## Description
-  An application to generate a new README document.
+  This project will ask a series of questions which it can then use to build a professional README document.
   ## Installation Instructions
-  Install npm inquirer module.
+  Intall the inquirer module. Run the "npm i inquirer" command to install.
 
   ## Use Cases
-  Generating READMEs for all applications.
+  Anytime you want a professional README document for your github repository.
 
   ## Licensing
   This application uses a standard None/Other license.
@@ -29,6 +29,6 @@
   Cyle.
 
   ## Contact
-  For further questions, I can be contacted at: cmac2617@yahoo.com
+  For further questions, I can be contacted at: cmac2617@yahoo.com.
 
-  Visit my Github [profile](http://www.github.com/cmac2617)
+  Visit my Github [profile](http://www.github.com/cmac2617).
