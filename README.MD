@@ -1,6 +1,6 @@
-# Cyle's cool project.
+# Homework 8 Assigment.
   ## Table of Contents
-  ![License](https://img.shields.io/badge/None-No%20License-lightgrey)
+  ![License](https://img.shields.io/badge/license-MIT-green)
   * [Description](#Description)
   * [Installation Instructions](#Installation)
   * [Use Cases]("#Usage")
@@ -10,21 +10,21 @@
   * [Contact](#Contact)
   
   ## Description
-  It is the greatest.
+  This application uses command line prompts to ask questions and receive responses that it uses to build a professional looking README ddocument.
   ## Installation Instructions
-  Nothing to install.
+  The only required dependency for this application is inquirer. Install inquirer by using the "npm i inquirer" command, or "npm i" if you have a package.json file that specifies inquirer as a dependency.
 
   ## Use Cases
-  None, it's worthless.
+  Anytime you are bulding a new application and need to summarize with a README.
 
   ## Licensing
-  This application uses a standard Other license.
+  This application uses a standard MIT license.
 
   ## Tests
-  None
+  There are no tests used with this project.
 
   ## Contributors
-  Nobody.
+  Cyle.
 
   ## Contact
   For further questions, I can be contacted at: cmac2617@yahoo.com
