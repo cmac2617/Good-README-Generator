@@ -1,4 +1,4 @@
-# Homework 8 README Generator
+# Eat da Burger
   ## [Video](https://drive.google.com/file/d/1Tapyo16H_NaJi0f9T15WtiNuZEdCkiie/view)
 
   ## Table of Contents
@@ -12,12 +12,12 @@
   * [Contact](#Contact)
   
   ## Description
-  This project will ask a series of questions which it can then use to build a professional README document.
+  An application that lets you add a new burger and eat them later.
   ## Installation Instructions
-  Intall the inquirer module. Run the "npm i inquirer" command to install.
+  No.
 
   ## Use Cases
-  Anytime you want a professional README document for your github repository.
+  To creata a tasty burger list.
 
   ## Licensing
   This application uses a standard None/Other license.
@@ -26,7 +26,7 @@
   None.
 
   ## Contributors
-  Cyle.
+  Myself.
 
   ## Contact
   For further questions, I can be contacted at: cmac2617@yahoo.com.
